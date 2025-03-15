@@ -306,10 +306,11 @@ blank line을 넣으면 table form이 깨지니 주의요망. pull request전에
 | 팀명칭 | 졸업하고싶조 |
 | 키워드 | Ingredient list, Healthcare, Vision impairment assistance  |
 | 기술키워드 | AI, Photo recognition, text-to-speech |
-| 프로젝트명 | YagInfo |
+| 프로젝트명 | 여러 병원을 다니고, 많은 약을 복용하는 사람들을 위한 복약 지도 서비스 |
 | 프로젝트 브랜드 | YagInfo  |
-| 사용할 소프트웨어 | AI<br> Image recognition<br> Text-to-speech |
-| 만들고자 하는 것 | 여러 병원을 다니고, 많은 약을 복용하는 사람들을 위한 복약 지도 서비스 |
+| 사용할 소프트웨어 | Tesseract OCR, Python and basic NLP, Flask, React  |
+| 만들고자 하는 것 | "Many people, especially the elderly or non-native speakers, struggle to understand prescription labels. This can lead to medication errors, missed doses, or even serious health risks. Our project, YagInfo, aims to solve this problem."
+YagInfo is a simple web application that allows users to upload a photo of their prescription bag, and it extracts medication details and dosage instructions automatically." |
 |팀그라운드룰| https://github.com/wewannagraduate/wewannagraduate/blob/main/GroundRule.md | 
 |최종수정일| 2025.03.12 |
 
